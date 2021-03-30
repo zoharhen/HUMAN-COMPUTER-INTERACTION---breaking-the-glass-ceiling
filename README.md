@@ -2,7 +2,7 @@
 Shirley Haimoff and I had designed and programmed a human-computer interaction using Arduino, 3D printing, Rhino and Grasshopper. 
 The project combines gesture recognition using an accelerometer and a computer game challenging the player to break the glass ceiling. 
 
-https://user-images.githubusercontent.com/49272962/113001302-5949a100-9179-11eb-92e5-f8f246e2bbed.mp4
+[![Watch the video](https://user-images.githubusercontent.com/49272962/113002549-8fd3eb80-917a-11eb-965d-270398632853.png)](https://user-images.githubusercontent.com/49272962/113001302-5949a100-9179-11eb-92e5-f8f246e2bbed.mp4)
 
 ## Contributions
 
